@@ -56,7 +56,7 @@
     <li><strong><ins>Deployment and Hosting:</ins></strong> The DO it app is deployed on cloud platform using a combination of services. </li>
   </ul>
 
-  <a href="https://github.com/subh-cs/Do-it">Find the code here</a>
+  <a href="https://github.com/DOitorg/hackathon/tree/main">Find the code here</a>
 </body>
 
 </html>
